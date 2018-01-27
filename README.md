@@ -38,7 +38,7 @@ that I've only read about so far. In no particular order:
 
 http://www.arewewebyet.org/ has a nice digest of some popular libraries or
 frameworks we could use in our path to a fully-functional webapp. It also
-contains a summary of some lower-level transport options. 
+contains a summary of some lower-level transport options.
 
 On the low-level:
 * [Solicit](https://github.com/mlalic/solicit) looks promising as the only full
@@ -66,7 +66,7 @@ When it comes to entire frameworks:
 * [Iron](https://github.com/iron/iron) is under mild development, but it looks
   like it pulls in Hyper to do the dirty work too. From what I can tell, it is
   by far the most depended-on web framework, and probably represents a safe
-  choice to get started with. However, it looks like it 
+  choice to get started with. However, it looks like it
   [might not be using Hyper's Tokio-based async stuff](https://github.com/iron/iron/issues/501)?
 * [Nickel](https://github.com/nickel-org/nickel.rs) looks like an express.js
   inspired framework under mild development, also based on Hyper. It doesn't
