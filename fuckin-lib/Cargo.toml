@@ -1,0 +1,6 @@
+[package]
+name = "fuckin-lib"
+version = "0.1.0"
+authors = ["Jason Birch <jbirch@jbirch.net>"]
+
+[dependencies]
