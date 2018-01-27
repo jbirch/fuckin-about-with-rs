@@ -1,5 +1,5 @@
 [package]
-name = "fuckin-service"
+name = "fuckin_service"
 version = "0.1.0"
 authors = ["Jason Birch <jbirch@jbirch.net>"]
 
