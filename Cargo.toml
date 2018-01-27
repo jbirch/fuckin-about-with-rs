@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Jason Birch <jbirch@jbirch.net>"]
 
 [dependencies]
+fuckin_lib = { path = "fuckin_lib", version = "~0" }
