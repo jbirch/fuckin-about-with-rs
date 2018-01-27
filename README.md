@@ -2,8 +2,6 @@
 Let's fuck about with Rust
 
 ## Do what
- * Stand up shitty webapp
- * Get it responding to things
  * Make a crappy quicksort
  * Bolt it together
  * Write some tests
@@ -83,4 +81,6 @@ a couple of small changes documented in
 This doesn't look like it can be done just yet, but I don't think we're that
 far from doing it.
 
-So I guess the way forward is Iron?
+So I guess the way forward is Iron. It is entirely possible to get that
+responding and doing the trivial Hello, World without understanding anything
+about Rust. This is both great and somewhat worrying.
